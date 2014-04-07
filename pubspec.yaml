@@ -1,0 +1,6 @@
+name: downloadFromPub
+description: A sample command-line application
+dependencies:
+  archive: any
+  args: any
+  http: any
