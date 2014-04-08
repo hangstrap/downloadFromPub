@@ -15,14 +15,14 @@ To use
 
 ## Example
 
-*pub get fails with the following log, indicating the download of *matcher* version *1.10.0* failed
-
+pub get fails with the following log, indicating the download of *matcher* version *1.10.0* failed
+```
 Downloading polymer_ui_elements 0.1.2...
 Downloading polymer_elements 0.1.2+1...
 Downloading matcher 0.10.0...
 Rename failed, path = 'C:\Users\hangs_000\AppData\Roaming\Pub\Cache\_temp\dira7b91ac5-beff-11e3-beea-2016d87b1a0e' (OS Error: Access is denied.
 , errno = 5)
-
+```
 to download the package run the following command 
 
 **dart ..\downloadFromPub\bin\downloadfrompub.dart matcher 0.10.0** 
