@@ -26,3 +26,7 @@ Rename failed, path = 'C:\Users\hangs_000\AppData\Roaming\Pub\Cache\_temp\dira7b
 to download the package run the following command 
 
 **dart ..\downloadFromPub\bin\downloadfrompub.dart matcher 0.10.0** 
+
+where ..\downloadFromPub\bin\ is your path to your copy of this script.
+
+
